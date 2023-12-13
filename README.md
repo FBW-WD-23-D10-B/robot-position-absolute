@@ -1,13 +1,5 @@
 # Make me a happy Robot!
 
-## Installation
-
-Run `npm install`
-
-## Usage
-
-To run the live server, run `npm run serve`
-
 ## Task
 
 Help! My robot friend Awesom-O has been broken up into small parts!
